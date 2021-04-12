@@ -1,0 +1,1 @@
+primeraFuncion dato = dato + 2
