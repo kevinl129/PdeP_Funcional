@@ -1,1 +1,1 @@
-primeraFuncion dato = dato + 2
+primerPrograma valor = valor + 2
